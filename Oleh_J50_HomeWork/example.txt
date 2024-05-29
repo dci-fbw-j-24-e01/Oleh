@@ -1,0 +1,5 @@
+de_DE
+Hello
+I have
+22
+Euro!!!
